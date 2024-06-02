@@ -1,0 +1,4 @@
+[28-May-2024 14:25:59 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Admin::get_class_section_subject() in /home/pq5zyrl5tl6y/public_html/jspmetc.com/application/controllers/Admin.php on line 1724
+[28-May-2024 14:26:02 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Admin::get_class_section_subject() in /home/pq5zyrl5tl6y/public_html/jspmetc.com/application/controllers/Admin.php on line 1724
+[28-May-2024 14:26:05 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Admin::get_class_section_subject() in /home/pq5zyrl5tl6y/public_html/jspmetc.com/application/controllers/Admin.php on line 1724
+[28-May-2024 14:26:06 Asia/Dhaka] PHP Fatal error:  Cannot redeclare Admin::get_class_section_subject() in /home/pq5zyrl5tl6y/public_html/jspmetc.com/application/controllers/Admin.php on line 1724
